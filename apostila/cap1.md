@@ -43,7 +43,7 @@ String nome = "José"
 
 ### Inicialização de variável
 
-Em dart todas a variáveis devem ser inicializadas antes da sua utilização (exceto se modo **null safety** não estiver ativado)
+Em dart todas a variáveis devem ser inicializadas antes da sua utilização (exceto se modo **null safety** não estiver ativado), dedssa forma 
 
 
 
